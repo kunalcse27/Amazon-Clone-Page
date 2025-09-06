@@ -2,7 +2,7 @@
 
 This is a responsive Amazon-style front-end website built using **HTML**, **CSS**. It mimics the layout and design of Amazon’s homepage, including navigation, product sections, and interactive elements.
 
-----------
+-------------------------------------------
 
 ## 📌 Project Details
 
@@ -12,10 +12,8 @@ This is a responsive Amazon-style front-end website built using **HTML**, **CSS*
 - **Technologies Used**:
   - HTML5
   - CSS3
-  - JavaScript (Vanilla)
-  - Font Awesome (Icons)
 
-----------
+--------------------------------------------
 
 ## 🎯 Features
 
