@@ -226,7 +226,6 @@ span {
     margin: 1.2rem 0;
 }
 
-/* Box Images – Assign background to .box-img inside each #box */
 #box1 .box-img {
     background-image: url("images/box1_image.jpg");
 }
@@ -259,7 +258,7 @@ span {
     background-image: url("images/box6_image.jpg");
 }
 
-/* Footer */
+
 footer {
   margin-top: 25px;
   background-color: #232f3e;
@@ -314,9 +313,6 @@ footer {
   color: #ccc;
 }
 
-/* Responsive Design */
-
-/* Tablets & small desktops (up to 1024px) */
 @media (max-width: 1024px) {
   .navbar {
     justify-content: space-between;
@@ -351,7 +347,7 @@ footer {
   }
 
   .box {
-    width: 45%; /* 2 per row */
+    width: 45%; 
     margin: 10px;
   }
 
@@ -429,7 +425,7 @@ footer {
   }
 
   .box {
-    width: 90%; /* full width */
+    width: 90%; 
     margin: 10px 0;
     height: auto;
   }
@@ -460,4 +456,5 @@ footer {
     text-align: center;
   }
 }
+
 
